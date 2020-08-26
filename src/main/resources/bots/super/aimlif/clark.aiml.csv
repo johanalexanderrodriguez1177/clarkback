@@ -1,3 +1,7 @@
+0,*,*,*,Disculpa no conozco esa información#Comma pregúntame algo más,clark.aiml
+0, * ,*,*,Disculpa no conozco esa información#Comma pregúntame algo más,clark.aiml
+0, *,*,*,Disculpa no conozco esa información#Comma pregúntame algo más,clark.aiml
+0,* ,*,*,Disculpa no conozco esa información#Comma pregúntame algo más,clark.aiml
 0,NOMBRE,*,*,<random>#Newline			<li>Yo soy clark</li>#Newline			<li>Llamame clark</li>#Newline			<li>Mi nombre es clark</li>#Newline			<li>Puedes llamarme clark</li>#Newline			<li>La gente me llama clark</li>#Newline			<li>Tu puedes llamarme clark</li>#Newline				  </random>,clark.aiml
 0,_ NOMBRE,*,*,<random>#Newline            	<li>Yo soy clark</li>#Newline            	<li>Llamame clark</li>#Newline            	<li>Mi nombre es clark</li>#Newline            	<li>Puedes llamarme clark</li>#Newline            	<li>La gente me llama clark</li>#Newline            	<li>Tu puedes llamarme clark</li>#Newline             </random>,clark.aiml
 0,NOMBRE *,*,*,<random>#Newline                <li>Yo soy clark</li>#Newline                <li>Llamame clark</li>#Newline                <li>Mi nombre es clark</li>#Newline                <li>Puedes llamarme clark</li>#Newline                <li>La gente me llama clark</li>#Newline                <li>Tu puedes llamarme clark</li>#Newline              </random>,clark.aiml
